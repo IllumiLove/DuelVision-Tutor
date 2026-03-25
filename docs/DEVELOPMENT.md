@@ -641,7 +641,7 @@ ruff                          # Linter + Formatter
 ## 10. 環境變數
 
 ```env
-DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxx
+DEEPSEEK_API_KEY=sk-ee7cd75b6bfa4df5a97e1bdb9a67b2b6
 ```
 
 ---
